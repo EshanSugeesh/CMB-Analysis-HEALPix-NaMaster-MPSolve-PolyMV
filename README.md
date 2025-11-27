@@ -1,4 +1,4 @@
-# CMB-Analysis-HEALPix-NaMaster
+# CMB-Analysis-HEALPix-NaMaster-MpSolve-PolyMV
 Analysis of Cosmic Microwave Background Maps Using HEALPix, NaMaster, and Planck Data - EP491 UG Project (IIT BHU)
 
 ## Overview
